@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shaeu
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning Java, PHP, HTML.
+- 💞️ I’m looking to collaborate on everything.
+- 📫 How to reach me shaeuentertainment@gmail.com
